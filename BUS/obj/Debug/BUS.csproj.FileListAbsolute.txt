@@ -1,0 +1,53 @@
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\BUS\bin\Debug\BUS.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\BUS\bin\Debug\BUS.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\BUS\bin\Debug\DAO.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\BUS\bin\Debug\DTO.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\BUS\bin\Debug\DAO.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\BUS\bin\Debug\DTO.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\BUS\obj\Debug\BUS.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\BUS\obj\Debug\BUS.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\bin\Debug\BUS.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\bin\Debug\BUS.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\bin\Debug\DAO.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\bin\Debug\DTO.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\bin\Debug\DAO.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\bin\Debug\DTO.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\obj\Debug\BUS.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\BUS\obj\Debug\BUS.pdb
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\bin\Debug\BUS.dll
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\bin\Debug\BUS.pdb
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\bin\Debug\DAO.dll
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\bin\Debug\DTO.dll
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\bin\Debug\DAO.pdb
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\bin\Debug\DTO.pdb
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\obj\Debug\BUS.dll
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\BUS\obj\Debug\BUS.pdb
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\bin\Debug\BUS.dll
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\bin\Debug\BUS.pdb
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\bin\Debug\DAO.dll
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\bin\Debug\DAO.pdb
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\obj\Debug\BUS.dll
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\BUS\obj\Debug\BUS.pdb
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\bin\Debug\BUS.dll
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\bin\Debug\BUS.pdb
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\bin\Debug\DAO.dll
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\bin\Debug\DTO.dll
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\bin\Debug\DAO.pdb
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\bin\Debug\DTO.pdb
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\obj\Debug\BUS.dll
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\BUS\obj\Debug\BUS.pdb

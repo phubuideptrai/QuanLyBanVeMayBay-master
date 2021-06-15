@@ -1,0 +1,28 @@
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\DTO\bin\Debug\DTO.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\DTO\bin\Debug\DTO.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\DTO\obj\Debug\DTO.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\DTO\obj\Debug\DTO.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\DTO\bin\Debug\DTO.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\DTO\bin\Debug\DTO.pdb
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\DTO\obj\Debug\DTO.dll
+D:\Documents\Học tập\Bài giảng\term4\CNPM\Project\QuanLyVeMayBay\QuanLyBanVe\DTO\obj\Debug\DTO.pdb
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\DTO\bin\Debug\DTO.dll
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\DTO\bin\Debug\DTO.pdb
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\DTO\obj\Debug\DTO.dll
+F:\For Me\Study\4 - Nhập môn CNPM\Project\QuanLyBanVe\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Downloads\CNPM_QLBVMB\CNPM_QLBVMB\QuanLyBanVe_Tu_3Lop_4_6\QuanLyBanVe\DTO\obj\Debug\DTO.pdb
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\DTO\bin\Debug\DTO.dll
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\DTO\bin\Debug\DTO.pdb
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\DTO\obj\Debug\DTO.dll
+D:\Download\Quản lí bán vé máy bay\Quản lí bán vé máy bay\QuanLyBanVe\DTO\obj\Debug\DTO.pdb
